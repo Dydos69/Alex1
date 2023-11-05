@@ -1,0 +1,83 @@
+body {
+	background:#EC6C32;
+}
+.mest3 {
+	font-family: Times new Roman,sans-serif;
+	font-size: 40px;
+	font-style: bold;
+	font-weight: bold;
+	margin: 40px 50px 30px 510px;
+}
+.mest2 {
+	font-family: Times new Roman,sans-serif;
+	font-size: 40px;
+	font-style: bold;
+	font-weight: bold;
+	margin: 40px 50px 30px 100px;
+}
+.mest1 {
+	font-family: Times new Roman,sans-serif;
+	font-size: 40px;
+	font-style: bold;
+	font-weight: bold;
+	margin: 40px 50px 30px 350px;
+}
+h1 {
+	font-family: Times new Roman,sans-serif;
+	font-size: 50px;
+	font-style: bold;
+	font-weight: bold;
+}
+.Foto_Jerry {
+	width: 40%;
+	height: 600;
+	border: 5px solid black;
+}
+.Foto_Jordan {
+	width: 50%;
+	height: 600;
+	border: 5px solid black;
+}
+.Foto_Alex {
+	width: 50%;
+	height: 600;
+	border: 5px solid black;
+	margin: 10px 0px 10px 0px;
+}
+.Jerry2 {
+	margin: 200px 100px 0px 200px;
+	border: 5px solid black;
+	margin-bottom: 10px;
+
+}
+.Podpisi_k_Foto{
+	font-family: Times new Roman,sans-serif;
+	font-style: bold;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 40px 50px 30px 50px;
+}
+.TextJerry {
+	font-family: Times new Roman,sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	margin: 30px 20px 50px 390px;
+	border: 1px solid black;
+	margin-bottom: 120px ;	
+}
+.TextJordan {
+	font-family: Times new Roman,sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	margin: 50px 490px 50px 10px;
+	border: 1px solid black;
+	margin-bottom: 120px ;	
+}
+.TextAlex{
+	font-family: Times new Roman,sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	margin: 30px 10px 50px 10px;
+	margin-bottom: 120px ;	
+}
